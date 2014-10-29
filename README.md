@@ -28,6 +28,8 @@ See the [caret-position](https://github.com/component/textarea-caret-position) *
 
 * Dan Dascalescu ([dandv](https://github.com/dandv))
 
+Development initially sponsored by [StockBase](http://stockbase.com), LLC.
+
 
 ## License
 

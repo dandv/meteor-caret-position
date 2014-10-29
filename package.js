@@ -1,7 +1,7 @@
 Package.describe({
   name: 'dandv:caret-position',
-  summary: '(x, y) coordinates of the caret in a textarea or input type="text"',
-  version: '2.1.1',
+  summary: '(x, y) coordinates of the caret in a textarea or <input type="text">',
+  version: '2.1.0_2',
   git: 'https://github.com/dandv/meteor-caret-position.git'
 });
 
