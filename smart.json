@@ -1,8 +1,0 @@
-{
-  "name": "caret-position",
-  "description": "(x, y) coordinates of the caret in a textarea or input type='text'",
-  "homepage": "https://github.com/StockBase/meteor-caret-position",
-  "author": "Dan Dascalescu <dNOSPAMdascalescu@gmail.com> (http://dandascalescu.com)",
-  "version": "2.1.0-3",
-  "git": "https://github.com/StockBase/meteor-caret-position.git"
-}
